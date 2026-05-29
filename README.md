@@ -54,9 +54,9 @@ I enjoy learning how intelligent systems work, solving real-world problems throu
 
 ## 📊 GitHub Stats
 
-![Talib's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Talib's GitHub stats](https://github-readme-stats.vercel.app/api?username=TALIBKHAN-hub&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TALIBKHAN-hub&layout=compact&theme=tokyonight)
 
 ---
 
