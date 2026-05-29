@@ -20,7 +20,7 @@ I enjoy learning how intelligent systems work, solving real-world problems throu
 ## 💻 Technical Skills
 
 ### Languages & Technologies
-![Python](https://img.shields.io/pypi/pyversions/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&labelColor=white&color=yellow)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
